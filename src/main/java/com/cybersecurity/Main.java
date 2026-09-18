@@ -97,14 +97,6 @@ System.out.println(
         "Validation records: " + validationRecords.size()
 );
 
-            System.out.println(
-                    "Training records: "
-                    + trainingSize);
-
-            System.out.println(
-                    "Validation records: "
-                    + validationSize);
-
             int trainNormal = 0;
             int trainMalicious = 0;
 
