@@ -23,5 +23,4 @@ Open the project folder in a terminal and run:
 ```bash
 mvn clean compile
 
-```bash
 mvn exec:java -Dexec.mainClass="com.cybersecurity.Main"
